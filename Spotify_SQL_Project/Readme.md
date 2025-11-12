@@ -2,7 +2,6 @@
   <img src="https://github.com/user-attachments/assets/abb47cac-ef9f-486d-83cd-f38f557fc917" alt="Spotify Logo" width="100%">
 </p>
 
-
 # 🎵 Spotify Advanced SQL Project & Query Optimization (P-6)
 
 **Project Level:** Advanced  
@@ -16,9 +15,9 @@ This project demonstrates **advanced SQL data analysis and optimization techniqu
 It includes everything from **dataset understanding** to **complex query writing** and **performance tuning** with indexing.
 
 By the end of this project, you will:
-- Strengthen your SQL analytical thinking.
-- Learn how to **use CTEs, window functions, and subqueries** effectively.
-- Optimize queries using **indexes** and **query execution plans**.
+- Strengthen your SQL analytical thinking.  
+- Learn how to **use CTEs, window functions, and subqueries** effectively.  
+- Optimize queries using **indexes** and **query execution plans**.  
 
 ---
 
@@ -129,7 +128,6 @@ We executed a query filtering data by `artist` and analyzed performance metrics:
 
 <img width="893" height="364" alt="spotify_explain_before_index" src="https://github.com/user-attachments/assets/8711ac9d-0ad0-44a7-8d5c-2da0b364158b" />
 
-
 ---
 
 ### 🗂️ Step 2: Create Index on `artist` Column
@@ -151,7 +149,6 @@ Post optimization, the same query showed significant improvements:
 
 <img width="1083" height="545" alt="spotify_explain_after_index" src="https://github.com/user-attachments/assets/6902e006-aa8e-4411-9def-8f2f1a072bfc" />
 
-
 ---
 
 ### 📈 Performance Comparison
@@ -162,6 +159,21 @@ Below is the visual representation of query performance before and after indexin
 <img width="968" height="278" alt="spotify_graphical view 2" src="https://github.com/user-attachments/assets/8c1fdcb1-aadc-458a-840f-5a410c8ee538" />
 <img width="1270" height="361" alt="spotify_graphical view 3" src="https://github.com/user-attachments/assets/9fdf4df7-1da3-432b-8185-e517153908de" />
 
+---
+
+## 📄 SQL Solution File
+
+All SQL scripts used in this project are consolidated in the file **`SOLUTION.sql`**.  
+This file contains:
+
+- Table creation and dataset setup  
+- Exploratory Data Analysis (EDA) queries  
+- Easy, Medium, and Advanced level analytical queries  
+- Query optimization steps (before and after index creation)
+
+📂 **Purpose:** To provide a single, executable SQL file that lets anyone reproduce this project end-to-end in PostgreSQL.
+
+You can open it directly in **pgAdmin**, **DBeaver**, or your preferred SQL editor to follow the analysis process line by line.
 
 ---
 
@@ -169,4 +181,9 @@ Below is the visual representation of query performance before and after indexin
 
 - **Database:** PostgreSQL  
 - **Query Language:** SQL (DDL, DML, CTEs, Window Functions)  
-- **Tools:** pgAdmin 4 
+- **Tools:** pgAdmin 4 / DBeaver / Docker PostgreSQL
+
+
+
+
+
