@@ -2,22 +2,51 @@
 
 Welcome to my **SQL Projects Repository** 🎯  
 This repository contains multiple **data analytics projects** built using **Structured Query Language (SQL)**.  
-Each folder represents a separate project with its own **dataset, queries, and insights**.
+Each folder represents a separate project with its own **dataset, SQL queries, and insights**.
 
 ---
 
 ## 📁 Repository Structure
 
 ### 🎬 Netflix Data Analysis
-- 🔍 Analyzes Netflix dataset to uncover trends in **movie releases, genres, and content types**.
-- 🧠 **Skills:** Joins, Group By, Aggregate Functions, CTEs, Window Functions  
-- 📈 **Key Insights:** Identified top genres, most active production years, and content distribution by type.  
-- 📎 **Check it out here:** [Netflix SQL Project](./Netflix_SQL_Project)
+Analyzes the **Netflix dataset** to uncover patterns in movie and TV show releases, content types, and production trends.  
 
+**Skills Used:**  
+- SQL Joins  
+- Aggregate Functions  
+- Group By  
+- CTEs (Common Table Expressions)  
+- Window Functions  
 
+**Key Insights:**  
+- Identified the most popular genres  
+- Found the most active years of content production  
+- Analyzed distribution of Movies vs TV Shows  
 
+**📎 Project Link:** [Netflix SQL Project](./Netflix_SQL_Project)
+
+---
+
+### 🎵 Spotify Advanced SQL Project & Query Optimization
+Performs **advanced SQL analysis** on the Spotify dataset to explore trends in tracks, artists, albums, and user engagement.  
+It also focuses on **query performance optimization** using indexing and execution plan analysis.  
+
+**Skills Used:**  
+- Subqueries & CTEs  
+- Window Functions  
+- Query Optimization  
+- Index Creation  
+- Performance Analysis using `EXPLAIN ANALYZE`  
+
+**Key Insights:**  
+- Ranked top 3 most-viewed tracks per artist using window functions  
+- Discovered high-energy tracks by album  
+- Reduced query execution time from **8.6 ms → 1.2 ms** with indexing  
+
+**📎 Project Link:** [Spotify SQL Project](./Spotify_SQL_Project_Optimization)
 
 ---
 
 ## 🎯 Objective
-To showcase my ability to use **SQL for data-driven analysis**, perform **business analytics**, and derive **actionable insights** — skills essential for a **Data Analyst** or **Business Intelligence** role.
+To demonstrate strong **SQL for Data Analytics** skills — including data extraction, transformation, and optimization — to derive meaningful, **actionable business insights**.  
+These projects reflect real-world analytical workflows used by **Data Analysts** and **Business Intelligence professionals**.
