@@ -43,7 +43,7 @@ It also focuses on **query performance optimization** using indexing and executi
 - Discovered high-energy tracks by album  
 - Reduced query execution time from **8.6 ms → 1.2 ms** with indexing  
 
-**📎 Project Link:** [Spotify SQL Project](./Spotify_SQL_Project_Optimization)
+**📎 Project Link:** [Spotify SQL Project](https://github.com/MohamedBilal-DA/SQL_DATA_ANALYTICS_PROJECTS/tree/main/Spotify_SQL_Project)
 
 ---
 
