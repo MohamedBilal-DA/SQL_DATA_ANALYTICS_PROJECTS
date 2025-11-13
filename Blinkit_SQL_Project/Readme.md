@@ -22,7 +22,7 @@ The project includes:
 ---
 ## 📊 Excel Dashboard
 I have also created an **interactive dashboard in Excel** for this analysis.  
-👉 [Click here to check it out](link-to-your-dashboard-file)
+👉 [Click here to check it out](https://github.com/MohamedBilal-DA/Excel_DataAnalytics_Projects/tree/main/Excel_DataAnalytics_Projects/Blinkit_Sales_Analysis)
 - --
 
 ## 🧹 Data Cleaning
