@@ -46,6 +46,28 @@ It also focuses on **query performance optimization** using indexing and executi
 **📎 Project Link:** [Spotify SQL Project](https://github.com/MohamedBilal-DA/SQL_DATA_ANALYTICS_PROJECTS/tree/main/Spotify_SQL_Project)
 
 ---
+### 🍎 Apple Retail Sales Project
+Performs advanced SQL analysis on Apple retail sales data to explore trends in products, stores, and customer purchasing behavior.
+Focuses on sales performance insights and query optimization for faster analytics.
+**Skills Used:** 
+
+-Conditional Aggregation
+-CTEs & Subqueries
+-Window Functions
+-Index Creation for Performance
+-Execution Plan Analysis with EXPLAIN ANALYZE
+
+**Key Insights:**  
+
+-Analyzed sales trends by product category and store region
+-Identified top-selling products and peak sales periods
+-Calculated growth ratios and revenue trends across multiple time frames
+-Reduced query execution time from 9.2 ms → 1.5 ms using indexing
+
+**📎 Project Link:** [Apple Retail Sales Project](https://github.com/MohamedBilal-DA/SQL_DATA_ANALYTICS_PROJECTS/tree/main/Apple_SQL_Project)
+
+
+---
 
 ## 🎯 Objective
 To demonstrate strong **SQL for Data Analytics** skills — including data extraction, transformation, and optimization — to derive meaningful, **actionable business insights**.  
