@@ -1,7 +1,9 @@
 <h1 align="center">Apple Retail Sales SQL Project</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/36b1a691-b325-455a-ad79-6e968b522021" width="900">
+
+![logo](https://github.com/user-attachments/assets/91ec123b-a944-44a7-9233-3ddcf7308fc8)
+
 </p>
 
 ## Project Overview
@@ -157,6 +159,16 @@ WHERE RANGEE IS NOT NULL
 GROUP BY PRODUCT_NAME,RANGEE
 ORDER BY 1,3 DESC
 ```
+## Complete SQL Solutions
+
+All SQL queries and solutions for the business questions are available in one file:
+
+🔗 **[View Full SQL Solutions – SOLUTION.sql](https://github.com/MohamedBilal-DA/SQL_DATA_ANALYTICS_PROJECTS/blob/main/Apple_SQL_Project/SOLUTION.sql)**
+
+## Conclusion
+This project demonstrates strong proficiency in SQL for data analysis, including schema design,
+performance tuning, and business-driven analytics. The insights generated can support strategic
+decision-making in retail operations, inventory planning, and customer support optimization
 
 
 
